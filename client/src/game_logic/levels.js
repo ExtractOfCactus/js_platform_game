@@ -13,7 +13,7 @@ var levelsPack = [[
 "                                ", 
 "                                ", 
 "  P     c                       ", 
-" xxxx xxxxxxx                   ", 
+" xxxx xxxxxxxx                  ", 
 "                                ", 
 "                                ", 
 "                                ", 
